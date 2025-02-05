@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "shiny2docker"]
+	path = shiny2docker
+	url = https://github.com/vincentguyader/shiny2docker
 [submodule "tetraclasse"]
 	path = tetraclasse
 	url = https://github.com/cran/tetraclasse
